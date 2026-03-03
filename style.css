@@ -1,0 +1,12 @@
+.mybtn:hover{
+    height: auto;
+    width: 100px;
+    /* border: 2px solid red; */
+    background-color: rgb(43, 73, 226);
+}
+.mybtn{
+    height: auto;
+    width: 100px;
+    /* border: 2px solid red; */
+    background-color: rgb(224, 48, 48);
+}
